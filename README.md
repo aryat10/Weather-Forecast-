@@ -2,7 +2,7 @@
 This a React App for Weather Forecast.
 
 
-For now its just the raw weather forcast which uses api fetch as I have started working on it and soon add something new to it.
+For now its just the raw weather forcast which uses api fetch as I have started working on it.
 
 
 
