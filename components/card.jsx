@@ -8,7 +8,6 @@ const Card = () => {
         <div className="card">
             <img src= {weather?.data?.current?.condition?.icon} alt=""></img>
             <h2> {weather.data?.current?.temp_c} ^C </h2>
-            <h5>London</h5>
         </div>
     )
 }
