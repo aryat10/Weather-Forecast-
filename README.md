@@ -1,5 +1,5 @@
 # Weather-Forecast-
-This a React App for Weather Forecast.
+This is a Weather Forecast usinf React framework.
 
 
 For now its just the raw weather forcast which uses api fetch as I have started working on it.
