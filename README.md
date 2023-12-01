@@ -2,11 +2,14 @@
 This is a Weather Forecast using React framework.
 
 
-For now its just the raw weather forcast which uses api fetch as I have started working on it.
+For now its just the raw weather forcast which uses API fetch as I have started working on it.
 
 
 
 I have used the API key from https://www.weatherapi.com/ 
+
+
+In this project user can give access to their location and lattitude and longitude as well.
 
 
 
