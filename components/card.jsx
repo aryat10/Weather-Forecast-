@@ -4,6 +4,7 @@ import { useWeather } from "../context/weather";
 const Card = () => {
     const weather = useWeather();
     console.log(weather);
+
     return(
         <div className="card">
             <img src= {weather?.data?.current?.condition?.icon} alt=""></img>
