@@ -13,4 +13,5 @@ I have used the API key from https://www.weatherapi.com/
 
 
 
-![Screenshot 2023-11-28 202129](https://github.com/aryat10/Weather-Forecast-/assets/107941072/953cc541-60ff-4b44-9f76-38a2217ed4c9)
+![image](https://github.com/aryat10/Weather-Forecast-/assets/107941072/8aff8a7a-1695-4b17-ab34-92831583438e)
+
