@@ -2,6 +2,7 @@ import React from "react";
 import { useWeather } from "../context/weather";
 const Input = () =>{
    const weather = useWeather();
+   
      return(
         <input 
         className="input-field" 
