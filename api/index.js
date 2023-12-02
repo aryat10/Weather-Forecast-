@@ -7,6 +7,7 @@ export const getWeatherDataForCity = async (city) =>{
 }
 
 // This is for Lattitude and Longitude of a particular region
+
 export const getWeatherDataForLocation = async (lat,lon) =>{
     const response = await fetch(`${baseURL}&q=${lat},${lon}&aqi=yes`);
     return await response.json();
