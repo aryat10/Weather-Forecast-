@@ -11,7 +11,7 @@
   padding: 5%;
   background-image: linear-gradient(90deg, rgba(24,22,48,1) 0%, rgba(73,152,173,1) 24%, rgba(23,255,206,1) url('components/clouds.jpg'));
   background-position: center;
-  background-size: cover;
+  background-size: cover; 
 }
 
 .card {
